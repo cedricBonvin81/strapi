@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cours",
+  "info": {
+    "singularName": "cour",
+    "pluralName": "cours",
+    "displayName": "cour"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
